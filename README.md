@@ -8,7 +8,7 @@
 
 ## 其他功能
 1. wenshu_method.py 中主要是各种公共方法
-2. random_prua.py 中是获取代理ip和UA的方法
+2. random_prua.py 中是获取代理ip和UA的方法  （已合并到redis_ip_pool和wenshu_method）
 3. redis_ip_pool.py 中放的是代理ip复用的方法
 4. wenshu_setting.py 配置文件
 5. my_logger.py 是日志模块
